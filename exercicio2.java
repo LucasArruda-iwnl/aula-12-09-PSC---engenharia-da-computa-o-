@@ -10,7 +10,7 @@ public class exercicio2 {
 
                 fatorial *= j;
             }
-            e = e + 1/fatorial(i);
+            e = e + (1/fatorial);
 
          }
          System.out.println(i);
