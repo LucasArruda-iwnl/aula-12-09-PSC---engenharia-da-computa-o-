@@ -3,7 +3,7 @@ public class repeticao {
     public static void main(String[] args) {
      Scanner sc = new Scanner(System.in); 
         int x; 
-        System.out.println("digita numero crlh ");
+        System.out.println("digita numero  ");
 
 do { 
     
